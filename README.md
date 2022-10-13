@@ -1,10 +1,10 @@
-# Klaymakers2022-KUP-info
-This repository has everything you want to know about the KUP
+# Klaymakers2022-KUP-info <br/>
+This repository has everything you want to know about the KUP<br/>
+<br/><br/>
 
-
-**Metaverse + NFTs**
-Unity Client Repository: https://github.com/catze-labs/kup-unity
-Linking Playfab with Unity Repository: https://github.com/catze-labs/kup-playfab
-Demo Dapp interacting with Klaytn Repository: https://github.com/catze-labs/KUP
+**Metaverse + NFTs**<br/>
+Unity Client Repository: https://github.com/catze-labs/kup-unity<br/>
+Linking Playfab with Unity Repository: https://github.com/catze-labs/kup-playfab<br/>
+Demo Dapp interacting with Klaytn Repository: https://github.com/catze-labs/KUP<br/>
 
 
