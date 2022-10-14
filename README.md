@@ -1,5 +1,6 @@
 # Klaymakers2022-KUP-info <br/>
 ## This repository has everything you want to know about the KUP<br/>
+## Gitbook: https://kup.gitbook.io <br/>
 
 ### **Metaverse + NFTs**<br/>
 Unity Client Repository: https://github.com/catze-labs/kup-unity<br/>
